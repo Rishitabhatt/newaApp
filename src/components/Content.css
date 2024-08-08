@@ -1,0 +1,37 @@
+.content{
+    margin-top: 40px;
+}
+
+.your {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: azure;
+}
+.dot1 img {
+    width: 600px;
+    height: 400px;
+  animation-duration: 4s;
+  animation-iteration-count: 3;
+}
+
+.dot2 {margin-right: 80px;
+    padding-bottom: 40px;
+    width: 400;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+img {
+    width: 350px;
+    height: 300px;
+}
+button.btn.btn-light {
+    width: 200px;
+    border:1px solid black;
+    margin-left: 400px;
+    font-size: 15px;
+    margin-bottom: 50px;
+}
