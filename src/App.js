@@ -18,6 +18,7 @@ function App() {
       <Content />
       <Footer /> */}
       <Test/>
+      <App/>
     </div>
 
   );
